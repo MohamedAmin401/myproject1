@@ -1,2 +1,3 @@
 # myproject1
-learn  git 
+learn  git
+## project notes
